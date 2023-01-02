@@ -11,5 +11,19 @@ Easy-ocr
 Accuracy - 35/50
 
 Pytesseract-ocr
-4.121673965454102
+4.121673965454102 seconds per image
+Accuracy - 40/50
+
+Tested on 50 Images on Colab CPU.
+
+Keras-ocr 
+103 second per image
+Accuracy - 41/50
+
+Easy-ocr
+44.4 seconds per image
+Accuracy - 35/50
+
+Pytesseract-ocr
+4.9791 seconds per image
 Accuracy - 40/50
